@@ -8,7 +8,7 @@ spec:
  source:
    repoURL: git@github.com:pasika-swn/prod-k8s-manifests2.git
    targetRevision: main
-   path: pedjeab/cart
+   path: nongkai
    directory: 
       recurse: true
  destination:
