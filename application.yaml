@@ -8,7 +8,7 @@ spec:
  source:
    repoURL: https://github.com/pasika-swn/idp-app.git
    targetRevision: main
-   path: systems
+   path: platform
    directory: 
       recurse: true
  destination:
