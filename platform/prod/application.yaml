@@ -6,11 +6,11 @@ metadata:
 spec:
  project: default
  source:
-   repoURL: git@github.com:pasika-swn/prod-k8s-manifests2.git
+   repoURL: https://github.com/pasika-swn/prod-k8s-manifests2.git
    targetRevision: main
    path: nongkai
    directory: 
       recurse: true
  destination:
    server: https://kubernetes.default.svc
-
+   namespace: argocd

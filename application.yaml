@@ -6,7 +6,7 @@ metadata:
 spec:
  project: default
  source:
-   repoURL: git@github.com:pasika-swn/idp-app.git
+   repoURL: https://github.com/pasika-swn/idp-app.git
    targetRevision: main
    path: platform
    directory: 
